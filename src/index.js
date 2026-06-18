@@ -60,7 +60,7 @@ function App() {
 function Header() {
   return (
     <header className="header">
-      <h1>Fast Pizza Co.</h1>
+      <h1>Fav Pizza</h1>
     </header>
   );
 }
